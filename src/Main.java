@@ -11,6 +11,6 @@ public class Main {
         System.out.println("The maintenance costs for SPRING = " + mCostSpring);
         System.out.println("The maintenance costs for SUMMER = " + mCostSummer);
         System.out.println("The maintenance costs for FALL = " + mCostFall);
-        System.out.println("The total maintenance cost = " + mCostTotal);
+        System.out.println("The total annual maintenance cost = " + mCostTotal);
     }
 }
